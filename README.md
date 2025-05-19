@@ -119,4 +119,4 @@ SmartAgent is designed to be modular and scalable. Below is a breakdown of poten
 These improvements aim to transition SmartAgent from a prototype to a production-ready tool, capable of powering real-world applications in business analytics, education, and data science workflows.
 ## Author
 
-Developed by [Your Name] as a demonstration of applied agentic AI systems with LangChain.
+Developed by Ashish Ghoshal as a demonstration of applied agentic AI systems with LangChain.
